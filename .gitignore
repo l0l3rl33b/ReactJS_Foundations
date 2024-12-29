@@ -1,0 +1,30 @@
+node_modules/
+# Next Js
+/.next/
+/out/
+.DS_Store
+
+#logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+pids
+logs
+*.pids
+*.seed
+*.pid.lock
+
+# Optimal npm cache directory
+
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Environment variables
+.env*
